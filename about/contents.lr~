@@ -1,0 +1,23 @@
+_model: page
+---
+title: About
+---
+body:
+
+With **peag** we hope to reflect on money and society in the light of the Bible.
+
+*Peag* (IPA: /piːɡ/) are traditional strings of shell beads Native Americans used in the northeastern woodlands for storytelling, ceremonial gifts, marking important treaties and historical events. More commonly known as *wampum*, both peag and wampum come from the Narragansett word *wampumpeag*.
+
+In the book of Proverbs, the wise teaching of the father and mother, rooted in the fear of the Lord and trust in him, are said to be "ornaments about your neck" (Prov. 1:9), much like *peag* necklaces would have adorned Native Americans. Proverbs 3:3 says, "Do not let kindness and truth leave you; bind them around your neck, write then on the tablet of your heart." Similarly, Proverbs 6:21 says of wise parents' teachings, "Bind them continually on your heart; tie them around your neck."
+
+*Peag* necklaces were one way Native Americans used to carry and store their money. Yet Proverbs says of wisdom, "For her profit is better than the profit of silver, and her gain better than fine gold. She is more precious than jewels; and nothing you desire compares with her" (Prov. 3:14,15).
+
+With this website, we hope to reflect theologically on money and creation, economics and truth, in the light of God's Word. Join me as we seek to understand, to gain wisdom, that we might value that which is true, honorable, right, pure, lovely, good, excellent, and praiseworthy.
+
+<form action="https://peagcafe.hosted.phplist.com/lists/?p=subscribe" method="post">
+    <a href="mailto:hi@peag@@blog"
+       onmouseover="this.href=this.href.replace('@@','.')">
+       Send me an email</a> | 
+    <input type="text" name="email" value="Enter your email" />
+    <button type="submit">Subscribe to Peag Cafe's new posts</button>
+</form>
